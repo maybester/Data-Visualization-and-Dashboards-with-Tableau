@@ -54,9 +54,21 @@ Linear regression results
 
 
 ## Challenges 
-Clustering
+
+1. hard to find variables for better clustering since the numeric pamaeters are not many.
+
+2. R2 of linear regression model is small which means data is not well explained by model.
 
 
 
 ## Future Goals
-(what would you do if you had more time?)
+
+1. To improve the linear regression model, outlier values need to be predicted and missing values need to be identified.
+
+2. Transform the feature data brfore put into a regression model.
+
+3. multiple linear regression model can be conducted for better fit of the data.
+
+
+
+
