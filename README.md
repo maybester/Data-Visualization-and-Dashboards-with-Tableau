@@ -36,9 +36,27 @@ The treemap showed average price per night in each district of NYC. Manhattan ha
 
 ## Results
 
+Clustering results
+<img width="405" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/ddb7a052-ba57-4ff9-80f5-d60169b887c7">
+
+
+
+
+Forcasting results
+<img width="992" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/9720138c-c548-40a1-9ea6-6e12770a5a14">
+
+
+
+Linear regression results
+<img width="963" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/9380d5ec-c1b6-49df-8f75-e1bac3981834">
+
+<img width="968" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/efc6df8b-c16c-4127-acbf-656ee555f04b">
+
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Clustering
+
+
 
 ## Future Goals
 (what would you do if you had more time?)
