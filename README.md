@@ -37,20 +37,26 @@ The treemap showed average price per night in each district of NYC. Manhattan ha
 ## Results
 
 Clustering results
+
 <img width="405" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/ddb7a052-ba57-4ff9-80f5-d60169b887c7">
 
 
 
 
 Forcasting results
+
 <img width="992" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/9720138c-c548-40a1-9ea6-6e12770a5a14">
 
 
 
 Linear regression results
+
 <img width="963" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/9380d5ec-c1b6-49df-8f75-e1bac3981834">
 
 <img width="968" alt="image" src="https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/efc6df8b-c16c-4127-acbf-656ee555f04b">
+
+A negative correlation between price and number of reviews, which means lower price of the host may result in more review records of the host. Since the p-value is less than 0.05, which means the results is significant. However, R-squared is 0.021 which means the relationship between the two variables is very little and data is not well explained by data.
+![image](https://github.com/maybester/Data-Visualization-and-Dashboards-with-Tableau/assets/73912419/4e463ad2-deaa-4279-b15a-6906837fe717)
 
 
 ## Challenges 
